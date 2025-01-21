@@ -1,0 +1,5 @@
+=== Final Statistics ===
+Total accesses: 300
+Total page faults: 44
+Total page replacements: 19
+Replacement to fault ratio: 43.18%
